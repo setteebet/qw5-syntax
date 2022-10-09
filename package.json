@@ -1,0 +1,18 @@
+{
+  "name": "qw5-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวย187✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวย187",
+"เว็บหวยฮานอยออนไลน์",
+"โปรโมชั่น lottovip",
+"เว็บออนไลน์หวย",
+"หวยสด555"
+],
+  "repository": "https://github.com/setteebet/qw5-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
